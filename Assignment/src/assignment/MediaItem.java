@@ -14,7 +14,7 @@ public class MediaItem {
         this.id = id;
         this.name = name;
         this.ageRestriction = ageRestriction;
-    }
+    } //(Farrell, 2025)
 
     // Getters / Setters (encapsulation)
     public int getId() { return id; }
@@ -35,3 +35,7 @@ public class MediaItem {
         return sb.toString();
     }
 }
+//Reference List
+//Farrell, J.2023.Java Programming.Boston: Cengage.
+//Deepseek, 2024. Response to query about coding. [online] Available at: https://chat.deepseek.com/ [Accessed 2 September 2025]
+
