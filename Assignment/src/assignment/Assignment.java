@@ -58,10 +58,13 @@ public class Assignment {
         System.out.println("(4) Delete a series");
         System.out.println("(5) Exit Series Application");
         System.out.println("(6) Print Series Report");
-        System.out.println();
+        System.out.println(); //(Deepseek, 2025)
 
        
     }
     
     
 }
+//Reference List
+//Farrell, J.2023.Java Programming.Boston: Cengage.
+//Deepseek, 2024. Response to query about coding. [online] Available at: https://chat.deepseek.com/ [Accessed 2 September 2025]
